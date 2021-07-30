@@ -35,7 +35,7 @@
 //
 // Heaters / Fans
 //
-#define FAN_PIN                                9  // PH6 ** Pin18 ** PWM9
+#define FAN_PIN                                7  //  was 9  // PH6 ** Pin18 ** PWM9
 
 // Other Mods
 

@@ -34,7 +34,8 @@
   // Heaters / Fans
   //
   // Power outputs EFBF or EFBE
-  #define MOSFET_D_PIN                         7
+  // #define MOSFET_D_PIN                 7  //  not used anywhere?
+
 
   //
   // M3/M4/M5 - Spindle/Laser Control
